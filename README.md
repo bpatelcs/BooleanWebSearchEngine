@@ -15,7 +15,7 @@ There are two files,
 
 #####`Client.java`:This is the file which takes queries and returns the set of URLs as a result.
 
-Example:
+Screen Shot:
 
 ![alt text](ScreenShot.JPG "Logo Title Text 1")
 
