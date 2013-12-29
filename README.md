@@ -17,5 +17,5 @@ There are two files,
 
 Example:
 
-![alt text](http://github.com/bhavikpatelcs/BooleanWebSearchEngine/blob/master/ScreenShot.JPG "Logo Title Text 1")
+![alt text](https://raw.github.com/bhavikpatelcs/BooleanWebSearchEngine/master/ScreenShot.JPG"Logo Title Text 1")
 
