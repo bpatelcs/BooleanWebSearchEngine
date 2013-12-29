@@ -17,5 +17,5 @@ There are two files,
 
 Example:
 
-![alt text](https://www.dropbox.com/s/jvprvff2464jzbo/PDFDownloaderScreenShot.JPG "Logo Title Text 1")
+![alt text](ScreenShot.JPG "Logo Title Text 1")
 
