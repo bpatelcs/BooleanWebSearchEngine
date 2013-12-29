@@ -17,5 +17,5 @@ There are two files,
 
 Example:
 
-![Alt text](https://github.com/bhavikpatelcs/BooleanWebSearchEngine/blob/master/ScreenShot.JPG "Screen Shot")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
