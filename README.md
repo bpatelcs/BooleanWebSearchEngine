@@ -17,5 +17,5 @@ There are two files,
 
 Screen Shot:
 
-![alt text](ScreenShot.JPG "Logo Title Text 1")
+![alt text](ScreenShot.JPG "Screen Shot")
 
