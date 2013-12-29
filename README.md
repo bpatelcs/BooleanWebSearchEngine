@@ -18,5 +18,5 @@ Client.java:This is the file which takes queries and returns the set of URLs as 
 
 Example:
 
-![Alt text](/path/to/img.jpg "Optional title")
+![Alt text](https://github.com/bhavikpatelcs/BooleanWebSearchEngine/blob/master/ScreenShot.JPG "Screen Shot")
 
