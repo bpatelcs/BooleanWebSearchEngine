@@ -7,4 +7,6 @@ How To Run This Program
 =========================
 There are two files,
 WebCrawler.java: This is file contains the code for crawler.Run it first.
+================
 Client.java:This is the file which takes queries and returns the set of URLs.
+============
