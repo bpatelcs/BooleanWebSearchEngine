@@ -8,11 +8,15 @@ How To Run This Program
 There are two files,
 
 WebCrawler.java: This file contains the code for crawler.There are two parameters to create new instance of web crawler.
+
 1.Seed: Basically it is some famous webpage which contains lots of links to some famous webpages.
+
 2.Limit: As we run our program on desktop, there will be always limit up to which you can index the content of title tag because of limited RAM.So, limit parameter makes sure that program does not visit more webpages than limit.
 
 
 Client.java:This is the file which takes queries and returns the set of URLs as a result.
+
 Example:
+
 ![Alt text](/path/to/img.jpg "Optional title")
 
